@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DahalTech/static/css/main.559586aa.css",
+    "main.js": "/DahalTech/static/js/main.b90ba725.js",
+    "static/media/about.png": "/DahalTech/static/media/about.e6d64c198794968e4856.png",
+    "static/media/pic1.png": "/DahalTech/static/media/pic1.119b63f19052d5b900a2.png",
+    "static/media/pic2.jpg": "/DahalTech/static/media/pic2.5ec6388ce628f5f7e140.jpg",
+    "static/media/pic1.jpg": "/DahalTech/static/media/pic1.fc26356f0beb2796c543.jpg",
+    "index.html": "/DahalTech/index.html",
+    "main.559586aa.css.map": "/DahalTech/static/css/main.559586aa.css.map",
+    "main.b90ba725.js.map": "/DahalTech/static/js/main.b90ba725.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.559586aa.css",
+    "static/js/main.b90ba725.js"
+  ]
+}
