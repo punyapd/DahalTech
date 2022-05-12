@@ -1,6 +1,9 @@
 import React from 'react'
 import Footer from './Footer'
 function Contact() {
+  const submitHandler = (e) => {
+    e.preventDefault();
+  }
   return (
     <>
       <div className="my-5">
@@ -10,7 +13,7 @@ function Contact() {
         <div className="row">
           <div className="co-10 col-md-6 mx-auto">
              <div className="mb-3">
-               <form action="">
+               <form  method = 'get'  onSubmit={submitHandler}>
                  <label className="form-label">Name</label>
                  <input type="text" name="" id="" className="form-control" />
                  <label className="form-label">Phone NO.</label>
